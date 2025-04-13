@@ -5,50 +5,43 @@
    "metadata": {},
    "source": [
     "<center>\n",
-    "    <img src=\"https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/Logos/organization_logo/organization_logo.png\" width=\"300\" alt=\"cognitiveclass.ai logo\"  />\n",
-    "</center>\n"
+    "    <img src=\"https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/Logos/organization_logo/organization_logo.png\" width=\"300\" alt=\"cognitiveclass.ai logo\" />\n",
+    "</center>"
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "#### Add your code below following the instructions given in the course\n"
+    "## My Jupyter Notebook on IBM Watson Studio"
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<h1>My Jupyter Notebook on IBM Watson Studio</h1>"
+    "**Name:** Nihar\n\n",
+    "**Current Occupation:** Electrical Engineering Undergraduate\n\n",
+    "**Aspiring Role:** Machine Learning Architect"
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<p><strong>Lucas Silva Pinto</strong><br>\n",
-    "Current occupation: lawyer.<br>\n",
-    "Desired occupation: data scientist.</p>"
+    "*I am passionate about data science because it blends my love for programming, math, and problem-solving. I’m fascinated by how data science can drive innovation and improve decision-making across industries.*"
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<p><em>I am interested in data science because I like programming, math and statistics. Also, I value data science as a tool to fight against the spread of misinformation and disinformation is society.</em></p>"
-   ]
-  },
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "<h3>In the following code cell, I wrote in Python programming language a command to perform one plus one addition and print the result.</h3>"
+    "### Example: A Simple Arithmetic Operation in Python"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 1,
    "metadata": {},
    "outputs": [
     {
@@ -67,22 +60,19 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<p>horizontal rule:</p>\n",
-    "<hr>\n",
-    "<p>bulleted list:</p>\n",
-    "<ul>\n",
-    "    <li>first bullet</li>\n",
-    "    <li>second bullet</li>\n",
-    "    <li>third bullet</li>\n",
-    "</ul>\n",
-    "<p>numbered list:</p>\n",
-    "<ol>\n",
-    "    <li>first numbered item</li>\n",
-    "    <li>second numbered item</li>\n",
-    "    <li>third numbered item</li>\n",
-    "</ol>\n",
-    "<p>strikethrough:<br>\n",
-    "<strike>This is stricken through text.</strike></p>"
+    "### Markdown Features Showcase\n\n",
+    "**Horizontal Rule:**\n\n",
+    "---\n\n",
+    "**Bulleted List:**\n",
+    "- First bullet\n",
+    "- Second bullet\n",
+    "- Third bullet\n\n",
+    "**Numbered List:**\n",
+    "1. First item\n",
+    "2. Second item\n",
+    "3. Third item\n\n",
+    "**Strikethrough Example:**\n\n",
+    "~~This is stricken-through text.~~"
    ]
   },
   {
